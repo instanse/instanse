@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm instanse</h1>
 
-<h3 align="center">I'm Java developer</h3>
-
 <div>
 
 # 📊GitHub Stats :
